@@ -1,1 +1,39 @@
 # WK1-Code-Challenge
+###Author: Raphae Kimotho
+###Licensing and Packaging: None
+
+## Learning Goals
+1. Create a repository on your GitHub account.
+2. Use Javascript to wire down the solution.
+3. Push the solution to the above repository once done.
+4. Submit the repository link for grading.
+5. Ensure your repository has a well written README.
+
+
+
+ 
+
+##Challenge 1:
+It is a  Student Grade Generator (Toy Problem)
+It follows the following command:
+Write that prompts the user to input student marks. The input should be between 0 and 100. Then output the correct grade: 
+
+A > 79, B - 60 to 79, C -  59 to 49, D - 40 to 49, E - less 40.
+
+ 
+
+##Challenge 2: 
+It is a Speed Detector (Toy Problem)
+It follows the following command:
+Write a program that takes as input the speed of a car e.g 80. If the speed is less than 70, it should print “Ok”. Otherwise, for every 5 km/s above the speed limit (70), it should give the driver one demerit point and print the total number of demerit points.
+
+For example, if the speed is 80, it should print: “Points: 2”. If the driver gets more than 12 points, the function should print: “License suspended”.
+
+ 
+
+##Challenge 3:
+It is a Net Salary Calculator (Toy Problem)
+It follows the following command:
+Write a program whose major task is to calculate an individual’s Net Salary by getting the inputs of basic salary and benefits. Calculate the payee (i.e. Tax), NHIFDeductions, NSSFDeductions, gross salary, and net salary. 
+
+For more information on the code, look at the comments  in the code.
